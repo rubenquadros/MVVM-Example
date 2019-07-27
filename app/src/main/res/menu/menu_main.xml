@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+            android:id="@+id/logout"
+            android:showAsAction="never"
+            android:orderInCategory="100"
+            android:title="@string/logout"/>
+</menu>
